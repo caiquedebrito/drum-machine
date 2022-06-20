@@ -6,7 +6,7 @@ const DisplayStyled = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 652px;
+    width: 450px;
     height: 55px;
     background: rgba(192, 192, 192, 1);
     margin: 0 auto;

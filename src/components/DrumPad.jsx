@@ -6,8 +6,8 @@ const DrumPadStyled = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 110px;
-    height: 110px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     border: 6px solid rgba(255, 255, 255, 1);
     background: rgba(212, 166, 0, 1);
